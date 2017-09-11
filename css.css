@@ -1,0 +1,11 @@
+h1{color:green;font-size:38pxfont-style: oblique; font-family: verdana;text-align: right;}
+h2{color:blue;font-size:28px;font-style: italic;font-family: arial;text-align: center;}
+h3{color:yellow;font-size:68pxfont-style: oblique;font-family: sans-serif;text-align:justify;}
+h4{color:grey;font-size:55px;font-style: italic;font-family: verdana;}
+h5{color:orange;font-size:22pxfont-style: oblique;font-family: arial,;}
+h6{color:red;font-size:28px;font-style: italic;font-family:sans-serif;}
+
+Body {background-color: #0099FF }
+tr{background-color:grey;color:green;font-size:38px;font-style: italic;}
+
+//body {background-image: url(http://hd-wallpapers.download/free/blocks_rainbow_3d_graphics_background_76559_6000x4000-3200x1800.jpg);background-attachment: scroll;}
